@@ -2,7 +2,7 @@
 
 command - built in command functions  
 .command - meta commands  
-!command - extension comands coming from dll's, typicali in form dll!command but some dlls are preloaded.
+!command - extension comands coming from dll's, typically in form dll!command but some dlls are preloaded and can be omitted.
 
 | Command   | Description |
 | --------- | ----------- |
